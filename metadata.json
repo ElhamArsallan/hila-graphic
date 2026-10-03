@@ -1,0 +1,8 @@
+{
+  "name": "Hila Graphic",
+  "description": "Premium graphic design and advertising company website featuring Liquid Glass UI, multilingual Pashto, Dari, and English support, and interactive service showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

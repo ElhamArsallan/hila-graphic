@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.admin-credentials.json*
+.admin-downloads/
+public/hila-graphic-ready-to-host.zip
+public/hila-graphic-website.zip

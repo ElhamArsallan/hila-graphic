@@ -1,0 +1,993 @@
+{
+  "config": {
+    "brandName": "Hila Graphic",
+    "brandTagline": {
+      "en": "Where Visionary Design Powers Impactful Advertising",
+      "ps": "چیرې چې نوښتګر ډیزاین اغېزمن اعلانونه رامنځته کوي",
+      "fa": "جایی که دیزاین خلاقانه تبلیغات ماندگار خلق می‌کند"
+    },
+    "whatsappNumber": "+93 792463301",
+    "email": "Hope.graphicsdesign@gmail.com",
+    "phoneDisplay": "+93 (0) 792463301",
+    "address": {
+      "en": "District 4, Shahr-e Naw, Kabul, Afghanistan & Remote Global Studio",
+      "ps": "څلورمه ناحیه، شهر نو، کابل، افغانستان او نړیوال ډیجیټل سټوډیو",
+      "fa": "ناحیه ۴، شهر نو، کابل، افغانستان و استودیوی دیجیتال بین‌المللی"
+    },
+    "socialLinks": [
+      {
+        "platform": "Behance",
+        "url": "https://behance.net",
+        "label": "Behance"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com",
+        "label": "Instagram"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com",
+        "label": "LinkedIn"
+      },
+      {
+        "platform": "Dribbble",
+        "url": "https://dribbble.com",
+        "label": "Dribbble"
+      }
+    ],
+    "stats": {
+      "satisfaction": "99.4%",
+      "experienceYears": "8+",
+      "completedProjects": "650+",
+      "activeClients": "180+"
+    },
+    "customLogo": {
+      "customLogoUrl": "/uploads/1790466907975-54482-New_Heela_logo8.png",
+      "lightLogoUrl": "/uploads/1790466907975-54482-New_Heela_logo8.png",
+      "darkLogoUrl": "/uploads/1790466916698-3428-New_Heela_logo7.png",
+      "width": 140
+    },
+    "backgroundImage": {
+      "enabled": true,
+      "lightImageUrl": "/uploads/1790466933007-82770-BAK_HOPE.png",
+      "darkImageUrl": "/uploads/1790466943968-19172-BAK_HOPE.png",
+      "opacity": 0.18,
+      "blur": 6,
+      "overlayDarkness": 0.55
+    },
+    "hero": {
+      "badge": {
+        "en": "HILA GRAPHIC • CREATIVE AGENCY",
+        "ps": "هیله ګرافیک • د اعلاناتو او ډیزاین سټوډیو",
+        "fa": "هیله گرافیک • آژانس خلاقیت و تبلیغات"
+      },
+      "headlinePart1": {
+        "en": "Crafting ",
+        "ps": "د اغېزمنو ",
+        "fa": "خلق "
+      },
+      "headlineAccent": {
+        "en": "Iconic Brands",
+        "ps": "برانډونو او اعلاناتو",
+        "fa": "برندهای ماندگار"
+      },
+      "headlinePart2": {
+        "en": " & High-Impact Advertising",
+        "ps": " مسلکي ډیزاین",
+        "fa": " و تبلیغات پربازده"
+      },
+      "description": {
+        "en": "We are a premier graphic design and advertising company engineered to build unforgettable visual identities, high-conversion advertising campaigns, and motion systems that command market authority.",
+        "ps": "هیله ګرافیک د ګرافیک ډیزاین او اعلاناتو یو پیاوړی او نوښتګر شرکت دی، چې ستاسو د سوداګرۍ لپاره بې‌ساري بصري هویت، د لوړ پلور اعلاناتي کمپاینونه او متحرک اعلانونه جوړوي.",
+        "fa": "هیله گرافیک استودیوی پیشرو در حوزه گرافیک دیزاین و تبلیغات است که هویت‌های بصری ممتاز، کمپین‌های تبلیغاتی تأثیرگذار و سیستم‌های موشن گرافیک حرفه‌ای را برای تسخیر بازار خلق می‌کند."
+      },
+      "primaryCta": {
+        "en": "Order on WhatsApp",
+        "ps": "په واټساپ امر وکړئ",
+        "fa": "سفارش در واتساپ"
+      },
+      "secondaryCta": {
+        "en": "Explore Our Services",
+        "ps": "زموږ خدمتونه وګورئ",
+        "fa": "مشاهده خدمات ما"
+      }
+    },
+    "about": {
+      "badge": {
+        "en": "ABOUT HILA GRAPHIC",
+        "ps": "د هیله ګرافیک په اړه",
+        "fa": "درباره هیله گرافیک"
+      },
+      "title": {
+        "en": "A New Standard in Visual Excellence & Strategic Advertising",
+        "ps": "په بصري ډیزاین او سوداګریزو اعلاناتو کې نوی معیار",
+        "fa": "استانداردی نو در دیزاین بصری و تبلیغات هدفمند"
+      },
+      "previewText": {
+        "en": "At Hila Graphic, we fuse artistic mastery with commercial strategy. We design unforgettable visual identities, motion graphics, and high-impact advertising that establish lasting market leadership.",
+        "ps": "په هیله ګرافیک کې، موږ هنر او سوداګریزه پوهه سره یوځای کوو. موږ داسې لوګوګانې او اعلانونه ډیزاین کوو چې ستاسو سوداګري په بازار کې تلپاتې او مخکښه کړي.",
+        "fa": "در هیله گرافیک، ما هنر دیزاین را با استراتژی تجاری تلفیق می‌کنیم. هویت‌های ماندگار و تبلیغات پربازده‌ای خلق می‌کنیم که برند شما را در بالاترین جایگاه بازار قرار می‌دهد."
+      },
+      "fullStory1": {
+        "en": "Founded with a relentless commitment to visual distinction, Hila Graphic has grown into a trusted creative partner for ambitious enterprises, commercial brands, and institutions across Afghanistan and international markets.",
+        "ps": "هیله ګرافیک په افغانستان او نړیوال بازار کې د باکیفیته ډیزاین او اعلاناتو د وړاندې کولو په موخه رامنځته شوی ترڅو سوداګریو ته لوړ ارزښت وروبښي.",
+        "fa": "هیله گرافیک با هدف ارائه سطحی بی‌سابقه از دیزاین مدرن و اعلانات تجاری در افغانستان و بازارهای فرامرزی پایه‌گذاری شد."
+      },
+      "fullStory2": {
+        "en": "Our multidisciplinary studio combines deep cultural resonance with international design benchmarks, ensuring your brand stands proud on both local streets and global digital platforms.",
+        "ps": "زموږ مسلکي ټیم د نړیوالو معیارونو او افغاني کلتور په پام کې نیولو سره، داسې ډیزاینونه جوړوي چې په هر ډګر کې غوره وي.",
+        "fa": "تیم حرفه‌ای ما پیوندی عمیق میان ارزش‌های بومی و مدرن‌ترین تکنیک‌های دیزاین جهان برقرار می‌کند تا برند شما همواره پیشتاز باشد."
+      },
+      "agencyCardTitle": {
+        "en": "Crafted with Precision. Delivered with Authority.",
+        "ps": "په پوره دقت ډیزاین، په پوره مسلکیتوب وړاندې کول.",
+        "fa": "طراحی‌شده با دقت ریاضی. ارائه‌شده با اقتدار."
+      },
+      "agencyCardDesc": {
+        "en": "Every curved bezier, typographic baseline, and visual asset is meticulously calibrated to establish your company as a category leader.",
+        "ps": "زموږ هره لیکه، رنګ او فونټ په خورا دقت سره ټاکل کېږي ترڅو ستاسو شرکت په بازار کې د نورو ترمنځ ځانګړی وځلېږي.",
+        "fa": "تمام خطوط، فواصل و تایپوگرافی پروژه‌های شما با استانداردهای بین‌المللی کالیبره می‌شوند تا برند شما همواره پیشتاز بماند."
+      }
+    },
+    "founderProfile": {
+      "photoUrl": "/uploads/founder/1791057833484-41633-IMG_5006__1_.jpg",
+      "cvUrl": "/uploads/documents/1791056671894-54764-Elham_CV_FILE.pdf",
+      "fullName": {
+        "en": "Founder name to be added",
+        "ps": "د بنسټګر نوم دلته ولیکئ",
+        "fa": "نام بنیان‌گذار را وارد کنید"
+      },
+      "title": {
+        "en": "Founder / CEO / Director",
+        "ps": "بنسټګر / اجرائیوي رئیس / رئیس",
+        "fa": "بنیان‌گذار / مدیرعامل / رئیس"
+      },
+      "introduction": {
+        "en": "Add the founder’s approved introduction here.",
+        "ps": "د بنسټګر تایید شوې پېژندنه دلته ولیکئ.",
+        "fa": "معرفی تأییدشده بنیان‌گذار را اینجا وارد کنید."
+      },
+      "professionalInformation": [
+        {
+          "label": {
+            "en": "Professional background",
+            "ps": "مسلکي مخینه",
+            "fa": "پیشینه حرفه‌ای"
+          },
+          "value": {
+            "en": "Editable profile detail to be added",
+            "ps": "د پېژندپاڼې د سمون وړ معلومات دلته ولیکئ",
+            "fa": "جزئیات حرفه‌ای را اینجا وارد کنید"
+          }
+        },
+        {
+          "label": {
+            "en": "Leadership focus",
+            "ps": "د رهبرۍ تمرکز",
+            "fa": "حوزه رهبری"
+          },
+          "value": {
+            "en": "Editable profile detail to be added",
+            "ps": "د رهبرۍ د سمون وړ معلومات دلته ولیکئ",
+            "fa": "اطلاعات حوزه رهبری را اینجا وارد کنید"
+          }
+        }
+      ],
+      "additionalInformation": {
+        "en": "Add any additional approved information here.",
+        "ps": "نور تایید شوي معلومات دلته ولیکئ.",
+        "fa": "اطلاعات تکمیلی تأییدشده را اینجا وارد کنید."
+      }
+    }
+  },
+  "menuItems": [
+    {
+      "id": "home",
+      "label": {
+        "en": "Home",
+        "ps": "لومړی مخ",
+        "fa": "صفحه نخست"
+      },
+      "path": "home",
+      "order": 1,
+      "active": true
+    },
+    {
+      "id": "services",
+      "label": {
+        "en": "Services",
+        "ps": "خدمتونه",
+        "fa": "خدمات"
+      },
+      "path": "services",
+      "order": 2,
+      "active": true
+    },
+    {
+      "id": "price-list",
+      "label": {
+        "en": "Price List",
+        "ps": "د بیو لست",
+        "fa": "لیست قیمت‌ها"
+      },
+      "path": "price-list",
+      "order": 3,
+      "active": true
+    },
+    {
+      "id": "about",
+      "label": {
+        "en": "About Us",
+        "ps": "زموږ په اړه",
+        "fa": "درباره ما"
+      },
+      "path": "about",
+      "order": 4,
+      "active": true
+    },
+    {
+      "id": "portfolio",
+      "label": {
+        "en": "Portfolio",
+        "ps": "نمونې او پروژې",
+        "fa": "نمونه کارها"
+      },
+      "path": "portfolio",
+      "order": 5,
+      "active": true
+    },
+    {
+      "id": "contact",
+      "label": {
+        "en": "Contact",
+        "ps": "اړیکه",
+        "fa": "تماس با ما"
+      },
+      "path": "contact",
+      "order": 6,
+      "active": true
+    }
+  ],
+  "services": [
+    {
+      "id": "branding",
+      "slug": "full-branding",
+      "number": "01",
+      "title": {
+        "en": "Full Branding",
+        "ps": "بشپړ برانډینګ او د هویت سیستم",
+        "fa": "هویت بصری جامع و برندینگ"
+      },
+      "subtitle": {
+        "en": "Complete corporate visual identity systems engineered for market authority.",
+        "ps": "د سوداګرۍ بشپړ بصري هویت چې ستاسو باور او ارزښت په ډاګه کوي.",
+        "fa": "سیستم یکپارچه و جامع هویت سازمانی جهت ماندگاری در ذهن مخاطب."
+      },
+      "description": {
+        "en": "From foundational color harmony and typography scales to stationery suites, digital guidelines, and packaging mockups, we design complete brand ecosystems that communicate prestige across every touchpoint.",
+        "ps": "د رنګونو له همغږۍ او فونټونو څخه نیولې تر لیک‌پاڼو، لارښودونو او ډیجیټل توکو پورې، موږ ستاسو د برانډ بشپړ نظام ډیزاین کوو.",
+        "fa": "از پالت رنگی و مقیاس‌های تایپوگرافی تا اوراق اداری، راهنمای برند (Brand Book) و ماک‌آپ‌ها، یک سیستم پیوسته و لوکس خلق می‌کنیم."
+      },
+      "deliverables": {
+        "en": [
+          "Brand Identity Book & Guidelines",
+          "Stationery (Cards, Letterheads, Envelopes)",
+          "Digital & Social Media System",
+          "Signage & Packaging Concepts"
+        ],
+        "ps": [
+          "د برانډ کتاب او لارښود",
+          "رسمي لیک‌پاڼې او سوداګریز کارټونه",
+          "د ټولنیزو رسنیو ډیزاین چوکاټ",
+          "بسته‌بندي او لوحې"
+        ],
+        "fa": [
+          "کتابچه استاندارد برند (Brand Book)",
+          "اوراق اداری کامل (کارت ویزیت، سربرگ)",
+          "قالب‌های شبکه‌های اجتماعی",
+          "کانسپت‌های بسته‌بندی و تابلو"
+        ]
+      },
+      "tags": [
+        "Brand Guidelines",
+        "Identity Suite",
+        "Color Strategy",
+        "Stationery"
+      ],
+      "gradient": "from-orange-500/10 via-amber-500/5 to-transparent",
+      "accentColor": "#FF5E1E",
+      "posterImage": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?q=80&w=1200&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "featured": true
+    },
+    {
+      "id": "logo-design",
+      "slug": "logo-design",
+      "number": "02",
+      "title": {
+        "en": "Logo Design",
+        "ps": "د لوګو او نښان ډیزاین",
+        "fa": "طراحی تخصصی لوگو و نشان"
+      },
+      "subtitle": {
+        "en": "Geometric, memorable, and timeless signature marks built on golden-ratio precision.",
+        "ps": "دقیق، یادګار او تلپاتې لوګوګانې چې د هندسي قواعدو پر بنسټ جوړې شوې دي.",
+        "fa": "نشان‌های بصری ماندگار، هندسی و دقیق بر پایه نسبت‌های طلایی."
+      },
+      "description": {
+        "en": "Your logo is the keystroke of your brand legacy. We create iconic, scientifically proportioned symbols and custom wordmarks designed to remain indelible across small mobile icons and towering stadium billboards alike.",
+        "ps": "لوګو ستاسو د شرکت مخ او نښه ده. موږ داسې زړه راښکونکې او ځانګړې لوګوګانې ډیزاین کوو چې په هر ځای او اندازې کې خپل برم وساتي.",
+        "fa": "لوگو امضای ماندگار هویت شماست. ما نشان‌ها و تایپوگرافی‌های سفارشی با تناسبات دقیق هندسی خلق می‌کنیم که در هر مقیاسی چشم‌نواز هستند."
+      },
+      "deliverables": {
+        "en": [
+          "Primary Logo & Monogram Variations",
+          "Full Vector Formats (AI, EPS, SVG, PNG, PDF)",
+          "Light & Dark Mode Formats",
+          "Favicon & App Icon Specifications"
+        ],
+        "ps": [
+          "اصلي لوګو او فرعي نمونې",
+          "ټول مسلکي فایلونه (وکتور او لوړ کیفیت)",
+          "د تورې او روښانه بڼې فایلونه",
+          "د موبایل او وېب نښان"
+        ],
+        "fa": [
+          "لوگو اصلی، مونوگرام و تایپ‌فیس اختصاصی",
+          "تمامی فرمت‌های برداری وکتور (AI, SVG, PDF)",
+          "نسخه‌های حالت روشن و تاریک",
+          "فاوآیکون و آیکون اپلیکیشن"
+        ]
+      },
+      "tags": [
+        "Golden Ratio",
+        "Symbolism",
+        "Custom Typography",
+        "Vector Precision"
+      ],
+      "gradient": "from-orange-500/15 via-red-500/5 to-transparent",
+      "accentColor": "#FF6F26",
+      "posterImage": "https://images.unsplash.com/photo-1626785774573-4b799315345d?q=80&w=1200&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1626785774573-4b799315345d?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1542744094-3a31f272c490?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "featured": true
+    },
+    {
+      "id": "poster-design",
+      "slug": "poster-design",
+      "number": "03",
+      "title": {
+        "en": "Poster Design",
+        "ps": "د اعلاناتي پوسټر ډیزاین",
+        "fa": "طراحی پوستر و بنرهای تبلیغاتی"
+      },
+      "subtitle": {
+        "en": "High-impact commercial, event, and editorial posters that command instant attention.",
+        "ps": "ځواکمن او زړه راښکونکي پوسټرونه چې د لیدونکي پام سمدستي ځانته اړوي.",
+        "fa": "پوسترهای تجاری، همایشی و محیطی پرقدرت که نگاه بیننده را میخکوب می‌کنند."
+      },
+      "description": {
+        "en": "We craft showstopping editorial and commercial posters that combine cinematic composition, bold typographic balance, and optical contrast to stop passersby and digital scrollers in their tracks.",
+        "ps": "موږ داسې مسلکي او ښکلي پوسټرونه طرحه کوو چې سینمایي ترکیب، روښانه پیغام او پیاوړی اغېز ولري او ستاسو پیغام په زړه پورې ورسوي.",
+        "fa": "ما با ترکیب کمپوزیسیون سینمایی، تایپوگرافی پیشرفته و تعادل نور و رنگ، پوسترهایی خلق می‌کنیم که بلافاصله پیام کلیدی شما را منتقل می‌کنند."
+      },
+      "deliverables": {
+        "en": [
+          "Large-Format Print Ready Files (CMYK, 300DPI)",
+          "Digital Billboard & LED Screen Formats",
+          "Social Media Carousel & Story Adaptations",
+          "Spot UV & Luxury Foil Finish Mockups"
+        ],
+        "ps": [
+          "د لوی چاپ فایلونه د لوړ کیفیت سره",
+          "د ډیجیټل بیلبورډ او سکرین لپاره بڼې",
+          "د ټولنیزو شبکو او سټوریو لپاره اندازې",
+          "د ځانګړي چاپ او طلاکوب نمونې"
+        ],
+        "fa": [
+          "فایل‌های آماده چاپ افست و لارج‌فرمت (۳۰۰ دی‌پی‌آی)",
+          "فرمت‌های بیلبورد دیجیتال و نمایشگرهای شهری",
+          "ابعاد سازگار با شبکه‌های اجتماعی",
+          "موک‌آپ‌های خدمات چاپ لوکس و یووی"
+        ]
+      },
+      "tags": [
+        "Editorial Posters",
+        "Outdoor Advertising",
+        "Event Key Visuals",
+        "Digital Display"
+      ],
+      "gradient": "from-amber-500/15 via-orange-500/5 to-transparent",
+      "accentColor": "#FA5A1E",
+      "posterImage": "\"C:\\Users\\elham\\Downloads\\BEST EDIT3.jpg\"",
+      "galleryImages": [
+        "/uploads/media/1790726520908-82489-BEST_EDIT3.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "id": "motion-graphics",
+      "slug": "motion-graphics",
+      "number": "04",
+      "title": {
+        "en": "Video / Motion Graphics",
+        "ps": "ویډیو او موشن ګرافیک",
+        "fa": "ویدیو و موشن گرافیک حرفه‌ای"
+      },
+      "subtitle": {
+        "en": "Dynamic kinetic typography, 3D broadcast graphics, and captivating brand animations.",
+        "ps": "متحرک متنونه، د برانډ انیمیشنونه او ډیزاین شوې ۳D ویډیوګانې.",
+        "fa": "تایپوگرافی متحرک، گرافیک ۳ بعدی و انیمیشن‌های چشم‌نواز برند."
+      },
+      "description": {
+        "en": "Static imagery tells half the story. Our motion design studio breathes fluid life into your brand with kinetic title sequences, promotional commercial intros, UI micro-animations, and broadcast-level commercial reels.",
+        "ps": "موږ ستاسو برانډ ته د حرکت او ژوند روح بښو؛ د پیاوړو متحرکو متنونو، سوداګریزو اعلانونو او زړه راښکونکو لنډو ویډیوګانو له لارې.",
+        "fa": "ما با انیمیشن‌های ریتمیک، اینتروهای لوگوی سه‌بعدی و ویدیوهای تبلیغاتی پرانرژی، هویت برند شما را در فضای رسانه‌ای متحرک زنده می‌کنیم."
+      },
+      "deliverables": {
+        "en": [
+          "Logo Sting / Brand Intro Animations",
+          "15s & 30s Commercial Promo Motion Clips",
+          "Kinetic Social Media Reels (9:16 & 16:9)",
+          "Sound Design & Royalty-Free Audio Mixing"
+        ],
+        "ps": [
+          "د لوګو متحرک انیمیشنونه",
+          "سوداګریز لنډ اعلانات (۱۵ او ۳۰ ثانیې)",
+          "د انسټاګرام او فیسبوک متحرک ریلزونه",
+          "د غږ او میوزیک مسلکي ترتیب"
+        ],
+        "fa": [
+          "اینترو متحرک لوگو (Logo Animation)",
+          "کلیپ‌های تبلیغاتی ۱۵ و ۳۰ ثانیه‌ای",
+          "ریلزها و ویدیوهای استوری متحرک",
+          "میکس صوتی اختصاصی"
+        ]
+      },
+      "tags": [
+        "Kinetic Typography",
+        "3D Motion",
+        "Broadcast Quality",
+        "Logo Stings"
+      ],
+      "gradient": "from-orange-500/10 via-yellow-500/5 to-transparent",
+      "accentColor": "#FF6820",
+      "posterImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1200&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "featured": true
+    },
+    {
+      "id": "company-profile",
+      "slug": "company-profile",
+      "number": "05",
+      "title": {
+        "en": "Company Profile",
+        "ps": "د کمپنۍ پروفایل او کاتالوګ",
+        "fa": "پروفایل شرکتی و کاتالوگ سازمانی"
+      },
+      "subtitle": {
+        "en": "Editorial-grade corporate brochures, investor decks, and annual reports.",
+        "ps": "د پانګوالو او شریکانو لپاره مسلکي بروشورونه، د ادارې پېژندنه او کاتالوګونه.",
+        "fa": "کاتالوگ‌های سازمانی فوق‌لوکس، معرفی‌نامه‌های شرکتی و گزارش‌های سالانه."
+      },
+      "description": {
+        "en": "Establish ironclad investor credibility with sophisticated multi-page corporate profiles, service catalogs, tender submissions, and annual reports typeset with Swiss grid discipline and luxury editorial layouts.",
+        "ps": "د خپل شرکت حیثیت او باور د مسلکي او زړه راښکونکو کتابچو او پروفایلونو په وسیله لوړ کړئ چې په نړیوال او لوړ معیار ډیزاین کیږي.",
+        "fa": "با پروفایل‌ها و بروشورهای چندصفحه‌ای دارای لی‌اوت مدرن، نمودارهای انفورماتیک دقیق و پرینت فاخر، اعتماد سرمایه‌گذاران و مشتریان بزرگ را جلب کنید."
+      },
+      "deliverables": {
+        "en": [
+          "High-End PDF Profile (Interactive & Hyperlinked)",
+          "Print-Ready Saddle-Stitched & Perfect-Bound Files",
+          "Custom Infographics & Data Visuals",
+          "Matching Presentation Slide Deck (PPTX/Keynote)"
+        ],
+        "ps": [
+          "ډیجیټل او چاپي پروفایل فایلونه",
+          "ځانګړي انفوګرافیکونه او چارټونه",
+          "د پرزنټیشن ورته ښکلې سلایډونه",
+          "د کاتالوګ او کتابچې مسلکي بڼه"
+        ],
+        "fa": [
+          "نسخه تعاملی و دیجیتال PDF با لینک‌های فعال",
+          "فایل آماده چاپ با خطوط برش و صحافی",
+          "طراحی اینفوگرافیک و نمودارهای اختصاصی",
+          "تمپلیت اسلایدهای پرزنتیشن هماهنگ"
+        ]
+      },
+      "tags": [
+        "Corporate Editorial",
+        "Brochures",
+        "Investor Decks",
+        "Swiss Grid"
+      ],
+      "gradient": "from-amber-600/15 via-orange-500/5 to-transparent",
+      "accentColor": "#E65100",
+      "posterImage": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?q=80&w=1200&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "featured": true
+    },
+    {
+      "id": "other-services",
+      "slug": "other-services",
+      "number": "06",
+      "title": {
+        "en": "Other Graphic Services",
+        "ps": "نور ګرافیکي او اعلاناتي خدمتونه",
+        "fa": "سایر خدمات تخصصی دیزاین و تبلیغات"
+      },
+      "subtitle": {
+        "en": "Packaging, bespoke 3D product renders, vehicle wraps, and environmental signage.",
+        "ps": "بسته‌بندي، د موټرو ځانګړي اعلانات، غرفې او نوي تبلیغاتي نوښتونه.",
+        "fa": "بسته‌بندی مدرن، غرفه‌سازی نمایشگاهی، استیکر خودرو و گرافیک محیطی."
+      },
+      "description": {
+        "en": "Whatever surface your brand touches, we ensure visual supremacy. From tactile retail packaging and luxury unboxing experiences to exhibition booths, fleet wraps, and interactive digital interfaces.",
+        "ps": "ستاسو برانډ هر چیرې چې څرګندیږي، موږ د هغې بې‌سارې ښکلا تضمین کوو؛ د تولیداتو له بسته‌بندۍ تر سوداګریزو موټرو او نمایشګاه پورې.",
+        "fa": "هر سطحی که نام برند شما را حمل می‌کند، باید شاهکار باشد. از بسته‌بندی لوکس محصولات تا غرفه‌های نمایشگاهی و گرافیک محیطی شهری."
+      },
+      "deliverables": {
+        "en": [
+          "3D Product Mockups & Dieline Engineering",
+          "Vehicle Fleet Advertising Wraps",
+          "Exhibition Booths & Roll-Up Displays",
+          "Custom Merchandising & Apparel Graphics"
+        ],
+        "ps": [
+          "د بسته‌بندۍ ۳D ډیزاین او خطوط",
+          "د موټرو د اعلاناتو پوښښ ډیزاین",
+          "د نندارتونونو او غرفو ځانګړي بینرونه",
+          "ځانګړي لباسونه او پرچمي توکي"
+        ],
+        "fa": [
+          "طراحی خطوط تیغ و ماک‌آپ سه‌بعدی بسته‌بندی",
+          "استیکر و کاور خودروهای شرکتی و پخش",
+          "طراحی غرفه نمایشگاهی و رول‌آپ",
+          "اقلام تبلیغاتی هدیه و پوشاک"
+        ]
+      },
+      "tags": [
+        "Packaging Design",
+        "3D Visualization",
+        "Fleet Wraps",
+        "Environmental"
+      ],
+      "gradient": "from-orange-500/15 via-zinc-500/5 to-transparent",
+      "accentColor": "#FF5E1E",
+      "posterImage": "https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=1200&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "featured": true
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "aria-saffron",
+      "title": {
+        "en": "Aria Saffron Luxury Brand Identity",
+        "ps": "د اریا زعفرانو د لوکس برانډ هویت",
+        "fa": "هویت بصری لوکس زعفران آریا"
+      },
+      "client": "Aria Global Exports",
+      "category": "branding",
+      "year": "2025",
+      "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=1200&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "description": {
+        "en": "Complete identity, luxury black & gold foil packaging, and international export catalog for organic premium saffron.",
+        "ps": "بشپړ برانډینګ، د سرو زرو لوکس ټاپه، او د لوړ کیفیت زعفرانو د صادراتو لپاره نړیوال کاتالوګ.",
+        "fa": "سیستم هویت بصری کامل، بسته‌بندی نفیس طلایی و مشکی، و کاتالوگ صادرات بین‌المللی زعفران اعلا."
+      },
+      "tags": [
+        "Branding",
+        "Packaging",
+        "Export"
+      ],
+      "featured": true
+    },
+    {
+      "id": "zenith-financial",
+      "title": {
+        "en": "Zenith Holdings Signature Mark",
+        "ps": "د زینت هولډنګز ځانګړی او دقیق لوګو",
+        "fa": "نشان و هویت سازمانی زنیت هلدینگ"
+      },
+      "client": "Zenith Investment Group",
+      "category": "logo",
+      "year": "2025",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1626785774573-4b799315345d?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1542744094-3a31f272c490?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "description": {
+        "en": "Minimalist geometric monogram based on the golden ratio conveying financial sovereignty, trust, and contemporary dynamism.",
+        "ps": "د سرو زرو په تناسب جوړه شوې هندسي لوګو چې د پانګونې ثبات، اعتماد او مالي ځواک څرګندوي.",
+        "fa": "مونوگرام هندسی مینیمال با تناسبات طلایی برای انتقال حس اعتماد، اقتدار مالی و پویایی مدرن."
+      },
+      "tags": [
+        "Logo Design",
+        "Golden Ratio",
+        "Monogram"
+      ],
+      "featured": true
+    },
+    {
+      "id": "horizon-film",
+      "title": {
+        "en": "Echoes of Pamir International Film Poster",
+        "ps": "د پامیر انګازې - د نړیوال فیچر فلم پوسټر",
+        "fa": "پوستر بین‌المللی فیلم مستند پژواک پامیر"
+      },
+      "client": "Silk Road Cinema Productions",
+      "category": "poster",
+      "year": "2024",
+      "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?q=80&w=1200&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "description": {
+        "en": "Award-winning festival poster combining cinematic photography, deep charcoal tones, and poetic typography.",
+        "ps": "د نړیوال فیستیوال د پام وړ پوسټر چې سینمایي عکاسي او ژور هنري متون سره یوځای کوي.",
+        "fa": "پوستر برگزیده جشنواره جهانی با ترکیب تصویرسازی سینمایی، بافت‌های دودی و تایپوگرافی عمیق."
+      },
+      "tags": [
+        "Poster Art",
+        "Typography",
+        "Film Festival"
+      ],
+      "featured": true
+    },
+    {
+      "id": "nexus-motion",
+      "title": {
+        "en": "Nexus Future City 3D Kinetic Reel",
+        "ps": "د راتلونکي ښار ۳D متحرک انیمیشن",
+        "fa": "انیمیشن سه‌بعدی و موشن‌گرافیک نکسوس"
+      },
+      "client": "Nexus Smart Infrastructure",
+      "category": "motion",
+      "year": "2025",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1200&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "description": {
+        "en": "Kinetic 3D typography and futuristic broadcast visual sequences created for global tech summit keynote.",
+        "ps": "د نړیوالې ټکنالوژۍ غونډې لپاره د ۳D متحرکو متنونو او عصري انیمیشنونو مسلکي ټولګه.",
+        "fa": "تایپوگرافی متحرک سه‌بعدی و جلوه‌های نوری پیشرفته برای مراسم رونمایی اجلاس فناوری‌های هوشمند."
+      },
+      "tags": [
+        "3D Motion",
+        "Broadcast",
+        "Animation"
+      ],
+      "featured": true
+    },
+    {
+      "id": "kabul-skyline",
+      "title": {
+        "en": "Kabul Towers Architectural Profile",
+        "ps": "د کابل ټاورز ودانیز او کمپنۍ پروفایل",
+        "fa": "پروفایل و کاتالوگ معماری برج‌های کابل"
+      },
+      "client": "Capital Urban Real Estate",
+      "category": "profile",
+      "year": "2024",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "description": {
+        "en": "64-page luxury editorial catalog with Swiss grid layouts, architectural blueprints, and spot UV finishing.",
+        "ps": "۶۴ مخیزه لوکس کاتالوګ د سویسي معیاري جدولونو او د ځانګړي چاپ له ظرافتونو سره.",
+        "fa": "کاتالوگ ۶۴ صفحه‌ای سوپرلوکس با استانداردهای گرید سوئیسی، پلان‌های معماری و چاپ با روکش یووی."
+      },
+      "tags": [
+        "Editorial",
+        "Architecture",
+        "Print"
+      ],
+      "featured": true
+    },
+    {
+      "id": "roshan-energy",
+      "title": {
+        "en": "Verde Renewable Fleet & Environmental Ads",
+        "ps": "د زرغونې انرژۍ د موټرو او بهرنیو اعلاناتو ډیزاین",
+        "fa": "گرافیک ناوگان حمل و نقل و تبلیغات محیطی ورده"
+      },
+      "client": "Verde Energy Solutions",
+      "category": "other",
+      "year": "2024",
+      "image": "https://images.unsplash.com/photo-1509395062183-67c5ad6faff9?q=80&w=1200&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1509395062183-67c5ad6faff9?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "description": {
+        "en": "End-to-end commercial fleet wrap designs, highway high-visibility billboards, and solar station signage.",
+        "ps": "د مسلکي موټرو بشپړ پوښښ ډیزاین او په لویو لارو د اعلاناتي بیلبورډونو ځانګړې طرحه.",
+        "fa": "طراحی کاور بدنه خودروهای شرکتی، بیلبوردهای بزرگراهی با کنتراست بالا و تابلوهای نیروگاهی."
+      },
+      "tags": [
+        "Fleet Wrap",
+        "Billboard",
+        "Outdoor"
+      ],
+      "featured": false
+    }
+  ],
+  "pricePackages": [
+    {
+      "id": "logo-suite",
+      "name": {
+        "en": "Signature Logo Suite",
+        "ps": "د ځانګړي لوګو مسلکي کڅوړه",
+        "fa": "پکیج تخصصی نشان و لوگو"
+      },
+      "tagline": {
+        "en": "For startups & focused brands requiring an unmistakable brand mark.",
+        "ps": "د نویو سوداګریو لپاره د بې ساري لوګو جوړول.",
+        "fa": "مناسب برای استارتاپ‌ها و برندهای نیازمند نشان متمایز."
+      },
+      "price": "$240",
+      "period": {
+        "en": "per project",
+        "ps": "د هرې پروژې لپاره",
+        "fa": "به ازای پروژه"
+      },
+      "features": {
+        "en": [
+          "3 Distinct Geometric & Typographic Concepts",
+          "Master Vector Packages (AI, EPS, SVG, PDF, High-Res PNG)",
+          "Dark, Light & Monochrome Color Lockups",
+          "Official Typography & Color Palette Code Guide",
+          "Social Media Favicon & Circular Avatar Suite",
+          "Full Commercial Copyright Transfer"
+        ],
+        "ps": [
+          "د لوګو ۳ بې‌ساري او ښکلي کانسپټونه",
+          "ټول اصلي وکتور فایلونه (لوړ کیفیت AI، EPS، SVG)",
+          "د تورې، سپینې او رنګینې بڼې ځانګړي فایلونه",
+          "د فونټ او رنګونو رسمي لارښود او کودونه",
+          "د ټولنیزو شبکو لپاره د پروفایل سایزونه",
+          "د چاپي او ډیجیټل حق بشپړ انتقال"
+        ],
+        "fa": [
+          "۳ اتود اختصاصی، هندسی و تایپوگرافی",
+          "تمامی فایل‌های سورس برداری (AI, EPS, SVG, PNG)",
+          "نسخه‌های ویژه زمینه تیره، روشن و تک‌رنگ",
+          "راهنمای رنگی سازمانی و کدهای دقیق چاپ",
+          "کیت آیکون‌ها و فاوآیکون شبکه‌های اجتماعی",
+          "انتقال کامل حقوق مالکیت و لایسنس تجاری"
+        ]
+      },
+      "popular": false,
+      "active": true,
+      "order": 1
+    },
+    {
+      "id": "full-branding",
+      "name": {
+        "en": "Corporate Identity System",
+        "ps": "د برانډینګ بشپړ او جامع سیستم",
+        "fa": "سیستم جامع برندینگ و هویت سازمانی"
+      },
+      "tagline": {
+        "en": "End-to-end brand authority designed for market leaders and growing enterprises.",
+        "ps": "د پیاوړو شرکتونو لپاره د برانډینګ بشپړ نظام او لوړ اعتبار.",
+        "fa": "بالاترین استاندارد سازمانی برای تسخیر بازار و جایگاه لوکس."
+      },
+      "price": "$580",
+      "period": {
+        "en": "complete suite",
+        "ps": "بشپړه کڅوړه",
+        "fa": "بسته کامل"
+      },
+      "features": {
+        "en": [
+          "Complete Comprehensive Brand Book (35+ Pages)",
+          "Signature Logo, Sub-marks & Monogram Ecosystem",
+          "Stationery Suite (Business Cards, Letterheads, Envelopes, Folders)",
+          "Commercial Social Media Post & Story Design System",
+          "Product Packaging or Environmental Signage Mockups",
+          "Dedicated Senior Art Director & Priority Turnaround"
+        ],
+        "ps": [
+          "د برانډ بشپړ لارښود کتاب (Brand Book ۳۵+ مخه)",
+          "د لوګو، مونوګرام او فرعي نښو بشپړ اکوسیستم",
+          "رسمي اداري پاڼې، کارټونه، پوښۍ او پاکټونه",
+          "د ټولنیزو رسنیو لپاره د پوسټ او سټوري ډیزاین سیستم",
+          "د تابلوی، لوحې او بسته‌بندۍ مسلکي نمونې",
+          "د ډیزاین له مشر سره ځانګړې همغږي او چټک کار"
+        ],
+        "fa": [
+          "دفترچه استاندارد برند (Brand Manual ۳۵+ صفحه جامع)",
+          "اکوسیستم کامل لوگو، نشان دوم و مونوگرام",
+          "ست کامل اوراق اداری (کارت ویزیت، سربرگ، فولدر، پاکت)",
+          "سیستم دیزاین پست‌ها و استوری‌های سوشال مدیا",
+          "موک‌آپ‌های محیطی، تابلوی شرکتی و بسته‌بندی",
+          "مدیر هنری اختصاصی و پشتیبانی اولویت‌دار"
+        ]
+      },
+      "popular": true,
+      "active": true,
+      "order": 2
+    },
+    {
+      "id": "campaign-suite",
+      "name": {
+        "en": "Advertising & Motion Retainer",
+        "ps": "د اعلاناتو او موشن ګرافیک کڅوړه",
+        "fa": "پکیج تبلیغاتی و کمپین موشن گرافیک"
+      },
+      "tagline": {
+        "en": "High-impact conversion posters, billboards, and kinetic commercial animations.",
+        "ps": "د اعلاناتي کمپاینونو او ویډیویي اعلاناتو غوره ټولګه.",
+        "fa": "پوسترهای بیلبوردی، انیمیشن‌های تبلیغاتی و کمپین‌های پربازده."
+      },
+      "price": "$420",
+      "period": {
+        "en": "per campaign",
+        "ps": "د هر کمپاین لپاره",
+        "fa": "به ازای هر کمپین"
+      },
+      "features": {
+        "en": [
+          "Large-Format Billboard & Street Posters (Print-Ready CMYK)",
+          "15s & 30s High-Conversion Kinetic Motion Graphic Commercials",
+          "Multi-Size Meta & Google Ad Creative Formats",
+          "Corporate Company Profile / Catalog (Up to 16 Pages)",
+          "Audio SFX Mixing & Dynamic Sound Design",
+          "Direct Creative Director Strategy Support"
+        ],
+        "ps": [
+          "د بیلبورډونو او ښاري اعلاناتو لپاره لوړ کیفیت پوسټرونه",
+          "۱۵ او ۳۰ ثانیې متحرک موشن ګرافیک سوداګریز اعلانات",
+          "د ګوګل او ټولنیزو شبکو اعلاناتي اندازې",
+          "د شرکت جامع کاتالوګ او بروشور (تر ۱۶ مخه)",
+          "د غږ او میوزیک مسلکي تدوین",
+          "مستقیمه استراتیژیکه او اعلاناتي همغږي"
+        ],
+        "fa": [
+          "طراحی پوسترهای بزرگ شهری و بیلبوردهای لارج‌فرمت",
+          "انیمیشن‌های موشن گرافیک تبلیغاتی ۱۵ و ۳۰ ثانیه‌ای",
+          "فرمت‌های متنوع تبلیغات آنلاین و بنرهای وب",
+          "کاتالوگ یا پروفایل جامع شرکتی (تا ۱۶ صفحه اختصاصی)",
+          "میکس افکت‌های صوتی و تدوین باکیفیت",
+          "پشتیبانی مستقیم و استراتژی تبلیغاتی"
+        ]
+      },
+      "popular": false,
+      "active": true,
+      "order": 3
+    }
+  ],
+  "clients": [
+    {
+      "id": "client-1",
+      "name": "Kabul Prime Logistics",
+      "logoUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=200&auto=format&fit=crop&q=80",
+      "industry": {
+        "en": "Transportation & Logistics",
+        "ps": "ټرانسپورټ او لوژستیک",
+        "fa": "حمل و نقل و لجستیک"
+      },
+      "featured": true
+    },
+    {
+      "id": "client-2",
+      "name": "Pamir Mineral Water Co.",
+      "logoUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=200&auto=format&fit=crop&q=80",
+      "industry": {
+        "en": "Beverage & Consumer Goods",
+        "ps": "څښاک او خوراکي توکي",
+        "fa": "نوشیدنی و صنایع غذایی"
+      },
+      "featured": true
+    },
+    {
+      "id": "client-3",
+      "name": "Aryana Telecom Systems",
+      "logoUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=200&auto=format&fit=crop&q=80",
+      "industry": {
+        "en": "Telecommunications",
+        "ps": "مخابرات او ټکنالوژي",
+        "fa": "ارتباطات و مخابرات"
+      },
+      "featured": true
+    },
+    {
+      "id": "client-4",
+      "name": "Spinzar Trading Group",
+      "logoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=200&auto=format&fit=crop&q=80",
+      "industry": {
+        "en": "International Commerce",
+        "ps": "نړیواله سوداګري",
+        "fa": "تجارت بین‌الملل"
+      },
+      "featured": true
+    }
+  ],
+  "mediaLibrary": [
+    {
+      "id": "media-1791057833570-ck1r",
+      "name": "IMG_5006 (1).jpg",
+      "url": "/uploads/founder/1791057833484-41633-IMG_5006__1_.jpg",
+      "type": "image",
+      "createdAt": "2026-10-03",
+      "size": "0.34 MB"
+    },
+    {
+      "name": "BEST EDIT3.jpg",
+      "url": "/uploads/media/1790726520908-82489-BEST_EDIT3.jpg",
+      "type": "image",
+      "size": "1.5 MB",
+      "id": "media-1790726521022",
+      "createdAt": "2026-09-30"
+    },
+    {
+      "name": "rishabh-pammi-oRH2eeMBNCk-unsplash.jpg",
+      "url": "/uploads/1790478847356-99705-rishabh-pammi-oRH2eeMBNCk-unsplash.jpg",
+      "type": "image",
+      "size": "2.1 MB",
+      "id": "media-1790478848654",
+      "createdAt": "2026-09-27"
+    },
+    {
+      "id": "media-1",
+      "name": "Hila Signature Hero Visual",
+      "url": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?q=80&w=1200&auto=format&fit=crop",
+      "type": "image",
+      "createdAt": "2025-01-10",
+      "size": "1.4 MB"
+    },
+    {
+      "id": "media-2",
+      "name": "Logo Geometric Study",
+      "url": "https://images.unsplash.com/photo-1626785774573-4b799315345d?q=80&w=1200&auto=format&fit=crop",
+      "type": "image",
+      "createdAt": "2025-01-12",
+      "size": "2.1 MB"
+    }
+  ]
+}
